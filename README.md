@@ -1,2 +1,2 @@
-# tensorGo_Mern
-MERN Project
+run app
+npm run dev
